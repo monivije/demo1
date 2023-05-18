@@ -1,6 +1,7 @@
 import time
 import matplotlib.pyplotas plt
-start=time.time()
+start=time.time()     
+
 deflinearsearch(a, key):
     n = len(a)
 for iin range(n):
